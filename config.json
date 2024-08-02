@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  "token": "YOUR TOKEN",
+  "permissions": "YOUR_BOT_PERMISSIONS_HERE",
+  "application_id": "YOUR ID",
+  "sync_commands_globally": true,
+  "owners": [
+    1205234172252393532,
+    1220131048508096552
+  ]
+}
